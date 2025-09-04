@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 377113e201d756546b017589f71d9f8a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Shaders/ProtoPaper-Unlit.shadergraph
+  uploadId: 606265

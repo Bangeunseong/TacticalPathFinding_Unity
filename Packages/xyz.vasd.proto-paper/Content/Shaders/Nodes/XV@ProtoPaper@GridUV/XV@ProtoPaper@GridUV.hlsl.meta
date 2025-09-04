@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c56ce34f1f50c1046a734dba9dfeddb4
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Shaders/Nodes/XV@ProtoPaper@GridUV/XV@ProtoPaper@GridUV.hlsl
+  uploadId: 606265

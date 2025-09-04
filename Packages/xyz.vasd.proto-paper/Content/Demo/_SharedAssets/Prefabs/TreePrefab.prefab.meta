@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f5c483f77b6c884a96c36ad6affc314
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Demo/_SharedAssets/Prefabs/TreePrefab.prefab
+  uploadId: 606265

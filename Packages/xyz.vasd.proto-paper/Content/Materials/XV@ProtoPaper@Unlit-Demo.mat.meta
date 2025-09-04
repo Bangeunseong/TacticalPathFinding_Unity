@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a00c0969b730dc438b33303b26bee9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Materials/XV@ProtoPaper@Unlit-Demo.mat
+  uploadId: 606265

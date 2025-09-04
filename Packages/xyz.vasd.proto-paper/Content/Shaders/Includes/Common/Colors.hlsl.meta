@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93328a53460ba454cb875f5329cf0d06
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Shaders/Includes/Common/Colors.hlsl
+  uploadId: 606265

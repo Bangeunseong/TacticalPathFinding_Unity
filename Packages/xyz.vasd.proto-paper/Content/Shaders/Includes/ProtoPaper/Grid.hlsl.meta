@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee68aecad1c15d844a1eaefe5ad8609d
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Shaders/Includes/ProtoPaper/Grid.hlsl
+  uploadId: 606265

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ffe712bf9728cf45944480d9940c342
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Demo/BuiltIn/XV@ProtoPaper@Demo-BuiltIn.unity
+  uploadId: 606265

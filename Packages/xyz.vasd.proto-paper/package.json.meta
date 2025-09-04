@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50836a9fd1a56a3479bfdeda48788189
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/package.json
+  uploadId: 606265

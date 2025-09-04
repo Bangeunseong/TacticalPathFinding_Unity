@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fd7f033833d02264899c763c9cec5200
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Shaders/Nodes/XV@ProtoPaper/XV@ProtoPaper.shadersubgraph
+  uploadId: 606265

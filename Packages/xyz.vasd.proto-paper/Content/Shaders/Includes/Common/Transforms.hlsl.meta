@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6dd9de2eaae9da342b5fb72fefddb5f0
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Shaders/Includes/Common/Transforms.hlsl
+  uploadId: 606265

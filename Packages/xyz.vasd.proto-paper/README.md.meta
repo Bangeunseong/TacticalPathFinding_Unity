@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ded957a2cc563fb4d8e0b04033cbbede
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/README.md
+  uploadId: 606265

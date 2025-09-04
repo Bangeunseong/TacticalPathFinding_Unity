@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 089f4981433a406428eaef4afc313809
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262722
+  packageName: Proto Paper
+  packageVersion: 0.1.0-alpha.1
+  assetPath: Packages/xyz.vasd.proto-paper/Content/Shaders/Includes/ProtoPaper/Text.hlsl
+  uploadId: 606265
