@@ -9,6 +9,6 @@ Then, calculate path to destination using Heuristic & Cost calculation determine
 Finally, single entity will go to destination by passing node to node.
 
 ## ScreenShots
-<img src = "./Images/ScreenShot1"/>
+<img src = "./Images/ScreenShot1.png"/>
 
 Thanks to https://www.youtube.com/@git-amend
